@@ -8,6 +8,7 @@ The author is **Kevin Browne**.  He is a _instructor_ at Mohawk.  Here is some P
 def function(a,b):
     return a + b
 ```
+To learn more about Python goto [Python.org](https://www.python.org).
 
 ## Install
 
