@@ -15,6 +15,8 @@ Python is good for...
 - Web Applications
 - Learning to Code
 
+![Python Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Python-logo-notext.svg/1869px-Python-logo-notext.svg.png)
+
 ## Install
 
 To install the app, first clone the repository....
