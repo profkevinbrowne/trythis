@@ -10,6 +10,11 @@ def function(a,b):
 ```
 To learn more about Python goto [Python.org](https://www.python.org).
 
+Python is good for...
+- Machine Learning
+- Web Applications
+- Learning to Code
+
 ## Install
 
 To install the app, first clone the repository....
